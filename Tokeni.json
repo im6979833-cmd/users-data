@@ -20,7 +20,7 @@
     "tip_clanstva": "premium",
     "broj_ugovora": "UG-2026-001",
     "napomena": "Posebni uvjeti suradnje",
-    "status": false
+    "status": true
   },
   {
     "token": "abc123",
@@ -47,3 +47,4 @@
   }
 
 ]
+
